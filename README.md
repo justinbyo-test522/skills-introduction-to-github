@@ -1,4 +1,4 @@
-# Introduction to GitHub TEST TEST
+# Introduction to GitHub TEST TEST TEST
 
 _Get started using GitHub in less than an hour._
 
